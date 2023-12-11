@@ -1,0 +1,19 @@
+{
+  "name": "airdrop-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grammy": "^1.18.1",
+    "moralis": "^2.22.5",
+    "viem": "^1.9.2",
+    "web3": "^1.2.11"
+  }
+}
